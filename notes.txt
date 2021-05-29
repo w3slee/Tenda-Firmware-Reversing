@@ -3,3 +3,4 @@ binwak -e
 10292         0x2834          LZMA compressed data, properties: 0x5D, dictionary size: 8388608 bytes, uncompressed size: 3039160 bytes
 
 dd if= of= skip=10292 
+6822464 <- size ??
