@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Sat May 29 23:58:37 EAT 2021
+OS\ Name=Linux
+OS\ Version=5.11.16-artix1-1
+Username=debug
+Hostname=debug-mchinen
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+OS\ Architecture=amd64
+Timestamp=5/29/21, 11\:58 PM
