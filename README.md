@@ -10,7 +10,7 @@ stings decompressed/tenda.bin | grep mips
 
 
 
-<code> binwak -C decompressed/tenda.bin </code>
+<code> binwalk -C decompressed/tenda.bin </code>
 
 
 
